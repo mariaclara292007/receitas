@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+    font-family: "Montserrat", sans-serif;
+}
+img{
+    width: 98vw;
+    height: 45vh;
+    margin: 10px;
+}
+ul{
+    margin: 20px;
+}
+
+h1{
+    font-family: "Montagu Slab", serif;
+    color: rgb(126, 26, 43);
+}
+
+main{
+    
+    //o valor sera aplicado para os 4 lados
+    //quando sao dois valores o primeiro é para cima e para baixo, o segu do e para os lados
+    padding: 20px;
+    padding-left: 10px;
+
+}
